@@ -1,4 +1,5 @@
-Project screenshot:![calci](https://github.com/palaktomar/macos-calculator/assets/114277817/ecc19eeb-57c4-4a13-b873-6473e3ff8de6)
+Project screenshot:![calculator](https://github.com/palaktomar/macos-calculator/assets/114277817/13aa4085-dae0-4efb-8d37-430c437bf3ff)
+
 deployment link: https://chamoda.com/react-calculator/
 
 Palak Tomar
