@@ -1,3 +1,3 @@
 # macos-calculator
-a scientific calculator developed using react
+a scientific calculator developed using react react
 
