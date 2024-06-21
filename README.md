@@ -1,5 +1,3 @@
-# macos-calculator
-a scientific calculator developed using react react
 ![banner](banner.png)
 
 ## Clone of macOS calculator built with react
@@ -39,4 +37,3 @@ To deploy to github pages
 ```bash
 npm run deploy
 ```
-
