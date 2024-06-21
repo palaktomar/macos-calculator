@@ -1,4 +1,7 @@
-![banner](banner.png)
+Project screenshot:![calci](https://github.com/palaktomar/macos-calculator/assets/114277817/ecc19eeb-57c4-4a13-b873-6473e3ff8de6)
+deployment link: https://chamoda.com/react-calculator/
+
+Palak Tomar
 
 ## Clone of macOS calculator built with react
 
